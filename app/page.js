@@ -9,7 +9,7 @@ const home = () => {
         <h1 className='text-6xl md:text-[80px] font-bold tracking-wide headline_text'> 
         Creative <br />
         Thoughts <br />
-        Agency</h1>
+        Mohren</h1>
         <p className='text-xl text-gray-500 py-4' > Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa qui aliquam vitae, veritatis aspernatur expedita quas nesciunt eius odio quibusdam ex, itaque adipisci.</p>
        {/* margin bottom-push down a distance. it separates the div*/}
         <div className='mb-4 '>

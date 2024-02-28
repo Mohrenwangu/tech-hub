@@ -43,7 +43,7 @@ const Navbar = () => {
     </div>
     {/* mobile navigations */}
     {open && (
-      <div className="mobile  bg-[#2D2B42]  absolute top-[80px] right-0 w-[70%] m-auto  ">
+      <div className="mobile  bg-[#2D2B42] h-screen absolute top-[80px] right-0 w-[80%] m-auto  ">
     <div className='p-4'>
       {navigations.map((item)=>(
         <div className='' key={item._id}>
