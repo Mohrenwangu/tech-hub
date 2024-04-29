@@ -2,7 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 
 const About = () => {
-  return 
+  return (
     <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
      <div className='text'>
      <h3 className='text-blue-600 font-bold text-xl my-4 '> About Agency</h3>
